@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 📘 I am currently studying for a master's degree in SCUT
-- 🔧 Skills: Python / C# / JAVA / CV
+- 🔧 Skills: Python / JAVA / CV
 - 🌱 I’m currently learning JAVA, MySQL, SpringBoot, MyBatis, Flask
 - 📫 How to reach me: eesgyiu@mail.scut.edu.cn / yaosigan@foxmail.com
