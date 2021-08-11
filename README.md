@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🔧 Skills: Python / JAVA / CV
 - 🌱 I’m currently learning MySQL, JAVA & SpringBoot & MyBatis, Django & Flask
 - 📫 How to reach me: eesgyiu@mail.scut.edu.cn / yaosigan@foxmail.com
+- 😄 gitee: https://gitee.com/yiumac
