@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 📘 I am currently studying for a master's degree in SCUT
-- 🔧 Skills: CV / Python
-- 🌱 I’m currently learning Computer Vision Algorithms, JAVA & SpringBoot, Django & Flask
+- 🔧 Skills: Python, Java
+- 🔎 Field: CV, Data Mining
+- 🌱 I’m currently learning JAVA & SpringBoot, Django & Flask, Data Mining(Log Analysis)
 - 📫 How to reach me: eesgyiu@mail.scut.edu.cn
 - ✨ gitee: https://gitee.com/yiumac
