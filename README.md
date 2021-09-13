@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 📘 I am currently studying for a master's degree in SCUT
-- 🔧 Skills: **Python**, Java
-- 🔎 Fields: **CV**, Data Mining
-- 🌱 I’m currently learning JAVA, OpenCV
+- 🔧 Skills: **Python**
+- 🔎 Fields: **CV**
+- 🌱 I’m currently learning C++, OpenCV
 - 📫 How to reach me: eesgyiu@mail.scut.edu.cn
 - ✨ gitee: https://gitee.com/yiumac
